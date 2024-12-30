@@ -51,7 +51,9 @@ Check out this live example to see what you can build with CourseLit. [Click her
 
 ## Features
 
-Checkout our [documentation](https://docs.courselit.app/en/introduction/#key-features) for an updated list of features.
+Discover what makes CourseLit powerful and versatile. From course authoring to student management, we’ve got you covered!
+For a comprehensive and updated list of features, visit our documentation.
+
 
 ## Getting started
 
